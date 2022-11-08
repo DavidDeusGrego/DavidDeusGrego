@@ -1,0 +1,74 @@
+style
+body {
+background-image: url('Tom-Ellis-Als-Lucifer.jpg.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;  
+background-size: cover;
+}
+.city {
+background-color: rgba(0, 0, 0, 0);
+color: rgb(253, 246, 246);
+border: 2px solid rgb(255, 253, 253);
+margin: 20px;
+padding: 20px;
+}
+
+a:link {
+color: rgb(255, 255, 255);
+background-color: transparent;
+text-decoration: none;
+}
+a:visited {
+color: rgb(113, 139, 187);
+background-color: transparent;
+text-decoration: none;
+}
+a:hover {
+color: red;
+background-color: transparent;
+text-decoration: underline;
+}
+a:active {
+color: rgb(6, 7, 66);
+background-color: transparent;
+text-decoration: underline;
+}
+
+*{
+    margin: 0 0 0 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color:rgb(240, 214, 253);
+}
+
+header{
+    background-color: #975fa6;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h1{
+    font-size: 45px;
+}
+
+nav li{
+    font-size: 25px;
+    display: inline;
+    margin: 0 5px 0 25px;
+}
+
+nav a{
+    text-decoration: none;
+    color: #000000;
+    text-transform: uppercase;
+}
+
+.conteudo-principal{
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+}
