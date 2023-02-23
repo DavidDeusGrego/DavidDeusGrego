@@ -1,0 +1,35 @@
+body{
+background-color: #DEB887;
+margin-left: 20%;
+margin-right: 20%;
+border: 4px dotted gray;
+padding: 10px 10px 10px 10px;
+font-family: sans-serif;
+}
+
+h1.titulo{
+color: #8B4513;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-shadow: 4px 4px 4px white;
+font-size: 30pt;
+text-align: center;
+}
+
+h1{
+color: #8B4513;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-shadow: 2px 2px 2px yellow;
+}
+
+h2{
+color: #8B4513;
+text-shadow: 2px 2px 2px yellow;
+}
+
+img{
+    border: 4px solid #8B4513;
+    object-fit: cover;
+    transform: translateX(50%);
+}
+
+p{ color: white;}
